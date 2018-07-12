@@ -1,3 +1,5 @@
+[![ci-badge][]][ci] [![docs-badge][]][docs]
+
 # Palindrome
 
 Do you want to check if something is or contains a palindrome? Use this library!
@@ -25,3 +27,8 @@ assert!(!palindrome::contains_palindrome("Single characters like a are not palin
 ## License
 
 Licensed under MIT
+
+[ci]: https://travis-ci.org/TheUnitedStatesOfAmerica/yn.rs
+[ci-badge]: https://travis-ci.org/TheUnitedStatesOfAmerica/yn.rs.svg?branch=master
+[docs]: https://docs.rs/yn
+[docs-badge]: https://img.shields.io/badge/docs-online-5023dd.svg
