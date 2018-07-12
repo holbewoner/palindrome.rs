@@ -1,6 +1,6 @@
 [package]
 name = "palindrome"
-version = "0.1.0"
+version = "0.1.1"
 description = "Check for palindromes in words and sentences"
 documentation = "https://docs.rs/palindrome"
 authors = ["TheUnitedStatesOfAmerica <me@luna.fyi>"]
