@@ -28,7 +28,7 @@ assert!(!palindrome::contains_palindrome("Single characters like a are not palin
 
 Licensed under MIT
 
-[ci]: https://travis-ci.org/TheUnitedStatesOfAmerica/yn.rs
-[ci-badge]: https://travis-ci.org/TheUnitedStatesOfAmerica/yn.rs.svg?branch=master
-[docs]: https://docs.rs/yn
+[ci]: https://travis-ci.org/TheUnitedStatesOfAmerica/palindrome.rs
+[ci-badge]: https://travis-ci.org/TheUnitedStatesOfAmerica/palindrome.rs.svg?branch=master
+[docs]: https://docs.rs/palindrome
 [docs-badge]: https://img.shields.io/badge/docs-online-5023dd.svg
