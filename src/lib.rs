@@ -58,13 +58,13 @@ pub fn is_palindrome(string: impl Display) -> bool {
 /// 
 /// Contains a palindrome:
 /// ```rust
-/// assert!(palindrome::is_palindrome("Ana."));
-/// assert!(palindrome::is_palindrome("This contains a palindrome: Ana."));
+/// assert!(palindrome::contains_palindrome("Ana."));
+/// assert!(palindrome::contains_palindrome("This contains a palindrome: Ana."));
 /// ```
 /// 
 /// Does not contain a palindrome:
 /// ```rust
-/// assert!(!palindrome::is_palindrome("While a is a palindrome, we exclude it for convenience."));
+/// assert!(!palindrome::contains_palindrome("While a is a palindrome, we exclude it for convenience."));
 /// ```
 pub fn contains_palindrome(string: impl Display) -> bool {
     check_sentence(string)
